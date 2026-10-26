@@ -1,0 +1,13 @@
+.DS_Store
+# macOS build
+macos/.build/
+*.app/
+*.dmg
+# Windows build
+windows/bin/
+windows/obj/
+windows/dist/
+*.exe
+*.pdb
+# Installers (publish via GitHub Releases)
+installers/
